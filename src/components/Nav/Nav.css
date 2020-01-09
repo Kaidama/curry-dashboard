@@ -1,0 +1,13 @@
+.class-nav-link {
+  color: white;
+  margin: 0 5px;
+}
+
+.class-nav-link:hover {
+  color: #fe2548;
+  text-decoration: none;
+}
+
+.class-active-nav-lin {
+  color: #fe2548;
+}
